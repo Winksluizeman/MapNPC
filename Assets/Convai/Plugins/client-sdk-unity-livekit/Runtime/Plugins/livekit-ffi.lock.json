@@ -1,0 +1,9 @@
+{
+    "ffiTag": "livekit-ffi/v0.12.69",
+    "installed": [
+        {
+            "folder": "ffi-windows-x86_64",
+            "sha256": "18b43071f643e6bb89be75e336b8408e4ee0249757086e021bda0d7316c06eed"
+        }
+    ]
+}
