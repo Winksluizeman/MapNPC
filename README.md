@@ -1,7 +1,7 @@
 Een eigen AI-NPC-engine in Unity. Theo Verbeek (58) verkoopt zijn huis terwijl hij eigenlijk niet weg wil; zijn verhaal loopt in vier fases die reageren op hoe de speler met hem omgaat. Het denken en praten draait volledig op de eigen computer.
 
-Wat erin zit
-Bestand	Wat het doet
+Wat erin zit/Bestand	Wat het doet
+
 TheoBrain.cs	Gesprekslogica: prompt opbouwen, Ollama aanroepen, fase kiezen, elke beurt loggen in een CSV
 TheoChatUI.cs	Invoerveld, scrollbaar gesprek en een debugregel met de actieve fase en emotie
 TheoVoice.cs	Stuurt elk antwoord naar Piper, zet de WAV om naar een AudioClip en speelt die af
